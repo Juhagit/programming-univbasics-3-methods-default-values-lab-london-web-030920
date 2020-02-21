@@ -6,4 +6,5 @@ def meal_choice(veg1, veg2, protein = "meat")
   
   veg1 = "broccoli"
   veg2 = "macaroni"
+
 end 
